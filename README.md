@@ -9,7 +9,7 @@ I'm Paul, I'm 21.
 I'm actually in last year of master degree in Human Computer Interaction and Design. 
 I'm currently working on my Front End skill, with a focus on React.
 
-## Last project
+## Last projects
 
 I've done 2 project from [Front End Mentor](https://www.frontendmentor.io)
 
