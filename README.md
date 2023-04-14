@@ -4,7 +4,7 @@
 
 ## About Me 
 
-I'm Paul, I'm 21.
+I'm Paul, I'm 22.
 
 I'm actually in last year of master degree in Human Computer Interaction and Design. 
 I'm currently working on my Front End skill, with a focus on React.
